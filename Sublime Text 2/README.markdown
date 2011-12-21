@@ -7,7 +7,7 @@ I do immediately with a fresh Sublime Text 2 installation.
 
 http://www.sublimetext.com/forum/download/file.php?id=200
 
-    On a Mac, browse to Sublime 2 in your Applications/ folder, then right-click and “View Package Contents.” Lastly, browse to Contents/Resources/, and drag the new icon in, overwriting the existing one. 
+On a Mac, browse to Sublime 2 in your Applications/ folder, then right-click and “View Package Contents.” Lastly, browse to Contents/Resources/, and drag the new icon in, overwriting the existing one. 
 
 ## Install Textmate Tomorrow Theme
 
